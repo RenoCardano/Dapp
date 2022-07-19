@@ -2,29 +2,29 @@
 
 This website allows to register voters, to manage workflow status, to make submit proposals. Subsequently, registered voters can vote for any proposal once. The votes ccan be tallied and the result is shown immediately in a efficient way powered by the blockchain.
 
-#Contract addresse on ropten
+# Contract addresse on ropten
     0x7A1823D4021eb07A27e8d045f71a666066a5fa13
 
-# A Short video describing the Dapp
+# Short video presentation of the Dapp
 Here a short presentation: https://www.loom.com/share/97a5870ca59040d788c2f7df4803911e
 
 It is also accessible for testing purpose at this address: https://renocardano.github.io/Dapp/
+
 # Image
 This decentralized application runs Ropsten network, the smart contract is called voting.sol
 ![image](https://user-images.githubusercontent.com/68705151/179346146-c89f9220-342c-44ea-95b5-f2180ed6f17a.png)
 
-#Ropsten deployment
+# Ropsten deployment
 
 to deploy run : truffle deploy --network ropsten (with .env containning MNEM & INFURA_IF)
 
-=> Starting migrations...
+Starting migrations...
 ======================
 > Network name:    'ropsten'
 > Network id:      3
 > Block gas limit: 30000000 (0x1c9c380)
 
-
-=>1_deploy_simple_voting.js
+1_deploy_simple_voting.js
 =========================
 
    Deploying 'Voting'
