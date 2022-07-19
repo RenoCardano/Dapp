@@ -6,12 +6,12 @@
     0x7A1823D4021eb07A27e8d045f71a666066a5fa13
 
 # Short video presentation of the Dapp
-    Here a short presentation: https://www.loom.com/share/97a5870ca59040d788c2f7df4803911e
-    It is also accessible for testing purpose at this address: https://renocardano.github.io/Dapp/
+ Here a short presentation: https://www.loom.com/share/97a5870ca59040d788c2f7df4803911e
+ It is also accessible for testing purpose at this address: https://renocardano.github.io/Dapp/
 
 # Image
     This decentralized application runs Ropsten network, the smart contract is called voting.sol
-    ![image](https://user-images.githubusercontent.com/68705151/179346146-c89f9220-342c-44ea-95b5-f2180ed6f17a.png)
+   ![image](https://user-images.githubusercontent.com/68705151/179346146-c89f9220-342c-44ea-95b5-f2180ed6f17a.png)
 
 # Ropsten deployment
 
