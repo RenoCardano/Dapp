@@ -2,7 +2,7 @@
 
     This website allows to register voters, to manage workflow status, to make submit proposals. Subsequently, registered voters can vote for any proposal once. The votes ccan be tallied and the result is shown immediately in a efficient way powered by the blockchain.
 
-# Contract addresse on ropten
+# Contract address on Ropsten Test Network
     0x7A1823D4021eb07A27e8d045f71a666066a5fa13
 
 # Short video presentation of the Dapp
