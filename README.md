@@ -8,7 +8,7 @@
 # Short video presentation of the Dapp
  https://www.loom.com/share/97a5870ca59040d788c2f7df4803911e
 
-#Website link:
+# Website link:
 
 This Dapp is accessible for testing purpose at this address: https://renocardano.github.io/Dapp/
 
